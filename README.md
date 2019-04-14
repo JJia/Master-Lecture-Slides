@@ -1,6 +1,7 @@
 # Master-Lecture-Slides
 Repository of lecture notes developed since 2012; taught at Bainbridge Graduate Institute, Presidio Graduate School, George Washington University and other academic institutions 
 
+This folder is licensed per (CC BY 4.0)
 
 Attribution 4.0 International (CC BY 4.0) 
 https://creativecommons.org/licenses/by/4.0/
